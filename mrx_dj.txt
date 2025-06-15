@@ -1,0 +1,4 @@
+{
+  "version": "1.0.1",
+  "notes": "Adds basic DJ functionality for events and nightclubs"
+}
