@@ -15,7 +15,8 @@
 pip install check_version_information
 ```
 or
-Simply copy the check_version_information.py file into your project.
+
+Simply copy the `check_version_information.py` file into your project.
 
 Usage Example
 ```bash
