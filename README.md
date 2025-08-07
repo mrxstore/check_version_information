@@ -32,6 +32,7 @@ else:
 Requirements
 
 ・Python 3.6+
+
 ・No additional dependencies (or list if any)
 
 License
