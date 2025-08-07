@@ -38,6 +38,7 @@ store.update('user', { name: 'John', age: 30 });
 ```
 
 Requirements
+
 ・Node.js 12+ (for JavaScript version)
 
 ・No other dependencies
