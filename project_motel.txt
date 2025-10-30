@@ -2,5 +2,5 @@
 {
   "version": "1.1.5",
   "notes": "",
-  "released": ""
+  "released": "28.10.2025"
 }
