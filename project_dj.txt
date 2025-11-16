@@ -1,4 +1,5 @@
 {
   "version": "1.5.0",
-  "notes": "Adds basic DJ functionality for events and nightclubs"
+  "notes": "Adds basic DJ functionality for events and nightclubs",
+  "released": "16.11.2025"
 }
