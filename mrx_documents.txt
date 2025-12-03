@@ -1,4 +1,0 @@
-{
-  "version": "1.3.4",
-  "notes": "Removed issuer job from citizen documents, added custom name column to received documents"
-}
