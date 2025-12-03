@@ -1,5 +1,5 @@
 {
   "version": "1.5.2",
-  "notes": "integrated with ESX, added ox_target support, improved optimization, E key interactions, and framework language selection (English/Polish).",
+  "notes": "",
   "released": "30.10.2025"
 }
