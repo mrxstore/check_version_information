@@ -1,4 +1,0 @@
-{
-  "version": "1.2.0",
-  "notes": "The latest update to the mrx_tokenizer script has been released. Overall optimization has been improved, performance enhanced, and minor bugs fixed. The script now runs faster and more reliably!"
-}
