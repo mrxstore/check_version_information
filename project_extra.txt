@@ -1,0 +1,5 @@
+{
+  "version": "1.0.5",
+  "notes": "project_extra - Extra features for police/bcso/ems vehicles",
+  "released": "13.01.2026"
+}
