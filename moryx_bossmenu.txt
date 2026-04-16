@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
     "released": "2026-04-12",
-    "notes": "Initial release: powerful and fully configurable boss menu system with advanced management features, optimized performance and modern UI experience",
+    "notes": "",
     "priority": "normal"
 }
